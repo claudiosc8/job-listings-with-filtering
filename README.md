@@ -1,6 +1,6 @@
 # Frontend Mentor - Job Listings Challenge
 
-**Check the deployed app [here](https://job-listings-with-filtering-ashen.vercel.app)**
+**Check the deployed app [here](https://job-listings-with-filtering-ashen.vercel.app)!**
 
 ![Design preview for the Job Listings coding challenge](./design/desktop-preview.jpg)
 
