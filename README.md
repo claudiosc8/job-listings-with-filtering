@@ -2,6 +2,8 @@
 
 **Check the deployed app [here](https://job-listings-with-filtering-ashen.vercel.app)!**
 
+**Check the report on Frontend Mentor [here](https://www.frontendmentor.io/solutions/job-listings-with-filtering-using-react-and-sass--ddWy9loQ)**
+
 ![Design preview for the Job Listings coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
